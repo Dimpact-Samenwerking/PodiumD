@@ -1,6 +1,6 @@
 ---
 name: user story
-about: The user story describes the type of user, what they want and why.
+about: De user story beschrijft op detail niveau: type gebruiker, wat is de exacte functionele wens en waarom
 title: 'USER STORY: '
 labels: user story
 assignees: ''
