@@ -6,9 +6,3 @@ labels: "epic"
 assignees: ''
 
 ---
-
-***Als***
-
-***Wil ik***
-
-***Zodat***
